@@ -2,4 +2,6 @@
     <string name="app_name">PruebaGit</string>
     <string name="prueba">PruebaGit</string>
     <string name="segunda">PruebaGit</string>
+    <string name ="terceraprueba">intento3 agregar nueva rama desde android PR</string>
+
 </resources>
